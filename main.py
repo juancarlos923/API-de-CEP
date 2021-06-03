@@ -1,6 +1,6 @@
 import urllib.request, json
 
-cep = input("Informe um CEP:")
+cep = input("Informe um CEP:") #Só aceitar Números
 
 with urllib.request.urlopen(f"https://viacep.com.br/ws/{cep}/json/") as url:
     dados = json.loads(url.read().decode())
