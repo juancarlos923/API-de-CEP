@@ -1,2 +1,3 @@
-#Programa Para Localizar Endereço via CEP Usando API
-Primeiro Pergunta ao Usuário o CEP e Depois Mostrar Estado, Cidade, Bairro, Rua e DDD.
+# API DE CEP
+- Programa Para Localizar Endereço via CEP Usando API
+- Vídeo de Desmostração: https://youtu.be/TXkoX7azwpE
